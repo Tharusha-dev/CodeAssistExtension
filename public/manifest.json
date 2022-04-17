@@ -24,6 +24,9 @@
       "matches": [
         "<all_urls>"
       ],
+      "css":[
+        "main.css"
+      ],
       "run_at": "document_idle",
       "js": [
         "contentScript.js"
